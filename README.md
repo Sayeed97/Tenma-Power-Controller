@@ -8,14 +8,14 @@
 ## Command Line Scripts &  Useage Examples
 
 - python tenmaPsu.py --toggle ON
-  - Description: Turns tenma power supply ON at 37V output.
+  - Description: Turns tenma power supply ON in COM Port 37.
 
 - python tenmaPsu.py --toggle OFF
-  - Description: Turns tenma power supply OFF at 37V output.
+  - Description: Turns tenma power supply OFF in COM Port 37.
 
 - python tenmaPsu.py --port 54 --toggle ON
-  - Description: Cycles tenma power supply ON through Serial COM Port 54
-  - Useage: To change the default COM Port from 37 to a user specified COM Port
+  - Description: Cycles tenma power supply ON through Serial COM Port 54.
+  - Useage: To change the default COM Port from 37 to a user-specified COM Port.
 
 ## NOTES
 
